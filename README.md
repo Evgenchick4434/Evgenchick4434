@@ -4,7 +4,7 @@
  
 
 ### My favorite languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgenchick4434r&layout=compact)](https://bit.ly/49vFFtO)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgenchick4434&layout=compact)](https://bit.ly/49vFFtO)
 
 Main Language:ㅤ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
